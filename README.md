@@ -19,5 +19,5 @@ Rules for the car game -
 
 Goal - end the game with the highest score.
 
-#Note - the snake game comes with an exe file which can directly run on any windows machine but 
-#the car game comes as a source file which can be compiled and executed.
+Note - the snake game comes with an exe file which can directly run on any windows machine but 
+the car game comes as a source file which can be compiled and executed.
